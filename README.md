@@ -55,11 +55,3 @@ This project applies a multiple linear regression model to predict the weight of
 - Jupyter Notebook
 
 ---
-
-## 🧪 Run It Yourself
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/fish-weight-regression.git
-
-# Open the notebook in Jupyter and run cells in order
